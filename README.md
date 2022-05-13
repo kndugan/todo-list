@@ -1,24 +1,18 @@
 # ToDo List
 
-This project was bootstrapped with [React App](https://github.com/facebook/create-react-app).
-
 ## Description
 
-In this project, I've used React to create a simple todo list for a vacation to capture tasks. The user can add todos with a form or remove todos by clicking on the tasks.
+In this project, I've create a simple todo list for a vacation to capture tasks. The user can add todos with a form or remove todos by clicking on the item they'd like to remove.
 
 The starter code was provided by MIT xPro.
 
 ## How to Run
 
-Open the project in [VS Code](https://code.visualstudio.com/) and the use the extension [Open with Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-
-Runs the app in the development mode so the user can view it in the browser.
-
-The page will reload when you make changes.\
+To run this program, simply open the index.html file in your browswer and add or remove todos as desired.
 
 ## Roadmap of Future Improvements
 
-Future improvements will include creating a full React app to run the app.
+Future improvements will include creating the option for user input for Todo List name to fully customize for the client.
 
 ## Questions or Comments?
 
@@ -27,8 +21,6 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 ## License Information
 
 Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
-
-[React App](https://github.com/facebook/create-react-app) was used in this app.
 
 ### MIT License
 
