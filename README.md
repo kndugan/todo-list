@@ -10,7 +10,7 @@ The starter code was provided by MIT xPro.
 
 ## How to Run
 
-Open the project in VS Code and [Open with Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+Open the project in [VS Code](https://code.visualstudio.com/) and the use the extension [Open with Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 Runs the app in the development mode so the user can view it in the browser.
 
