@@ -10,18 +10,15 @@ The starter code was provided by MIT xPro.
 
 ## How to Run
 
-In the project directory, you can run:
+Open the project in VS Code and [Open with Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode so the user can view it in the browser.
 
 The page will reload when you make changes.\
 
 ## Roadmap of Future Improvements
 
-Future improvements will include adding additional styles to the form.
+Future improvements will include creating a full React app to run the app.
 
 ## Questions or Comments?
 
@@ -31,7 +28,7 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 
 Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
 
-Both [React App](https://github.com/facebook/create-react-app) and [Formik](https://formik.org) were used in this app.
+[React App](https://github.com/facebook/create-react-app) was used in this app.
 
 ### MIT License
 
