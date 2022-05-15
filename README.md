@@ -8,7 +8,7 @@ The starter code was provided by MIT xPro.
 
 ## How to Run
 
-To run this program, simply open the index.html file in your browswer and add or remove todos as desired.
+To run this program, simply open the index.html file in your browser and add or remove todos as desired.
 
 ## Roadmap of Future Improvements
 
