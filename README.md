@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I've create a simple todo list for a vacation to capture tasks. The user can add todos with a form or remove todos by clicking on the item they'd like to remove.
+In this project, I've used [React](https://github.com/facebook/create-react-app) to create a simple todo list for a vacation to capture tasks. The user can add todos with a form or remove todos by clicking on the item they'd like to remove.
 
 The starter code was provided by MIT xPro.
 
@@ -21,6 +21,8 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 ## License Information
 
 Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
+
+[React](https://github.com/facebook/create-react-app) was used to create this app.
 
 ### MIT License
 
